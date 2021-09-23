@@ -1,0 +1,116 @@
+/*ชื่อโรงแรม*/
+.header {
+    background-color: #565290;
+    padding: 10px;
+    background-image: linear-gradient(rgb(79, 65, 202), rgb(143, 204, 245));
+    
+}
+
+h1 {
+    font-size: 70px;
+    font-style: normal;
+    font-family: "Mitr";
+    color:#f1f1f1;
+}
+h2{
+    font-size: 30px;
+    font-style: normal;
+    font-family: "Kanit";
+    
+}   
+.top_botton{
+    color: rgb(24, 20, 20); 
+    font-size: 20px; 
+    width:200px;
+   
+}
+h2{
+        font-size: 30px;
+        font-style: normal;
+        font-family: "Kanit";
+        
+    }   
+.Sarabun {
+        font-family:  Sarabun;
+}
+  
+.area{
+        padding: 10px;
+        border: 1px solid #4CAF50;
+        border-radius: 8px;
+        background-color: rgb(182, 140, 85);
+    }
+    
+.footer{
+        text-align: center;
+        height: 50px;
+        font-size: 20px;
+        background-color: rgb(48, 46, 46);
+        color: white; 
+        
+    }
+.submit_botton{
+        width: 290 px;
+       
+
+    }
+.find_botton
+{
+    width: 130px;
+}
+
+.band{
+        font-size: 40px;
+        padding: 30px;
+    }
+.bTop
+{
+    background-color: #a18ef7;
+    background-image: linear-gradient(rgb(77, 184, 226), rgb(165, 231, 217));
+    
+}
+.h3{
+    font-size: 25px;
+    font-style: normal;
+    font-family: "Kanit";
+}
+.table_hand
+{
+    font-size: 16px;
+    
+}
+
+.Table_color
+{
+    background-color: rgb(241, 237, 231);
+    border-radius: 30px;
+    
+}
+.base_background{
+    background-color: rgb(237, 250, 246);
+}
+h4{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+nav-item{
+    border-radius: 20px;
+}
+.line_table
+{
+    border:  3px  solid #2d2e2c;
+
+}
+
+.free_text{
+    
+    color: #4CAF50;
+}
+.notfree_txet{
+    
+    color: crimson;
+}
+.read_descip
+{
+    font-size: 14px;
+}
